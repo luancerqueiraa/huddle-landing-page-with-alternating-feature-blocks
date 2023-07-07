@@ -11,7 +11,7 @@
 
 ### Links
 
-- Live Site URL: [Live Site](https://luancerqueiraa.github.io/url-shortening-api-master/)
+- Live Site URL: [Live Site](https://luancerqueiraa.github.io/huddle-landing-page-with-alternating-feature-blocks/)
 
 ### Screenshots
 
